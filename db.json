@@ -1,6 +1,4 @@
-}
-"emp" :
-[ 
+[
     {
         "additionalName1": null,
         "additionalName2": null,
@@ -96,4 +94,3 @@
         "ssnIsSuppressed": false
     }
 ]
-}
